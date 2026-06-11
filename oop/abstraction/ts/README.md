@@ -1,0 +1,2 @@
+# TypeScript
+The application of Abstraction in TypeScript is achieved through classes and interfaces. Classes will define the blueprint for creating such object while the interface enforces structure for the class.
