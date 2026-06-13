@@ -3,7 +3,6 @@
 Abstraction is a concept that involves hiding the implementation of a system and expose only the essentials to a user.
 It allows developers to focus on the core functionality of a component without being overly concerned about the underlying complexlity of the code.
 
-
 ## What It Solves
 Managing complexity by hiding non-essential details of a component.
 
@@ -14,6 +13,7 @@ When you want the common behaviour of a component to be shared among other class
 - Reduces complexity by hiding low-level implementation.
 - Code security to prevent unauthorized access to internal data and methods.
 - Reusability
+- Allows code changes without affecting other parts of the system
 
 ## Cons
 - Debugging difficulty since it may hide what you may want tested.
