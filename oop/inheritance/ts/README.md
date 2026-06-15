@@ -1,0 +1,2 @@
+# TypeScript
+Inheritance in TypeScript is achieved by creating a derived class (child class) from a base class (parent class). It uses the extends keyword. This can be confused with the implements keyword which is used to build empty methods inside of a interface. 
