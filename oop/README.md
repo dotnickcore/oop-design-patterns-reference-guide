@@ -7,3 +7,7 @@ The Principles Are:
 2. Encapsulation: Combining data and methods into one single class.
 3. Polymorphism: Allow different object to respond to the same method but in their own way.
 4. Inheritance: Allow a class (child) to acquire properties from an already exisiting class (parent).
+
+## Source:
+- https://cloudaffle.com/blog
+- https://cloudaffle.com/series/object-oriented-typescript/introduction-to-oop/

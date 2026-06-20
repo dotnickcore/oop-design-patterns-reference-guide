@@ -7,3 +7,7 @@ The Principles Are:
 3. Liskov Substitution (L): Objects of a superclass should be replaceable with objects of a subclass without breaking its correctness. Meaning you should remove false assumptions about an entity.
 4. Interface Segregation (I): No client should be forced to depend on unnecessary functionalities that a piece of software doesn't need.
 5. Dependency Inversion (D): High level modules should not depend on low level modules.
+
+## Source:
+- https://cloudaffle.com/blog
+- https://cloudaffle.com/series/solid-design-principles/what-is-solid/
